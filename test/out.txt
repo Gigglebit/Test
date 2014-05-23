@@ -1,0 +1,396 @@
+1400378294.52
+At time: 0.000 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 1.005 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 2.008 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 3.011 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 4.015 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 5.019 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 6.023 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 7.027 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 8.031 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 9.035 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 10.039 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 11.043 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 12.047 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 13.051 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 14.056 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 15.060 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 16.064 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 17.068 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 18.072 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 19.076 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 20.080 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 21.086 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 22.090 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 23.095 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 24.099 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 25.102 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 26.108 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 27.112 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 28.116 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 29.120 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 30.124 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 31.128 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 32.131 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 33.135 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 34.140 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 35.143 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 36.147 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 37.150 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 38.153 s
+Throughput: 0.000 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 0 percent
+At time: 39.156 s
+Throughput: 0.365 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 0.000 ms delay
+Link Utilisation: 58 percent
+At time: 40.160 s
+Throughput: 0.616 MBytes/second
+Loss in percentage: 0.000
+Latency in the Q: 1651.287 ms delay
+Link Utilisation: 99 percent
+At time: 41.164 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 7.706
+Latency in the Q: 2420.858 ms delay
+Link Utilisation: 100 percent
+At time: 42.167 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 25.366
+Latency in the Q: 2422.659 ms delay
+Link Utilisation: 100 percent
+At time: 43.170 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 32.634
+Latency in the Q: 2415.226 ms delay
+Link Utilisation: 100 percent
+At time: 44.172 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 36.573
+Latency in the Q: 2416.219 ms delay
+Link Utilisation: 100 percent
+At time: 45.175 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 39.074
+Latency in the Q: 2422.283 ms delay
+Link Utilisation: 100 percent
+At time: 46.179 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 40.785
+Latency in the Q: 2419.171 ms delay
+Link Utilisation: 100 percent
+At time: 47.183 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 42.032
+Latency in the Q: 2415.721 ms delay
+Link Utilisation: 100 percent
+At time: 48.186 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 42.980
+Latency in the Q: 2423.778 ms delay
+Link Utilisation: 100 percent
+At time: 49.190 s
+Throughput: 0.627 MBytes/second
+Loss in percentage: 43.723
+Latency in the Q: 2412.243 ms delay
+Link Utilisation: 100 percent
+At time: 50.193 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 44.332
+Latency in the Q: 2424.287 ms delay
+Link Utilisation: 100 percent
+At time: 51.198 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 44.825
+Latency in the Q: 2414.808 ms delay
+Link Utilisation: 100 percent
+At time: 52.201 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 45.243
+Latency in the Q: 2415.705 ms delay
+Link Utilisation: 100 percent
+At time: 53.203 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 45.598
+Latency in the Q: 2420.171 ms delay
+Link Utilisation: 100 percent
+At time: 54.206 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 45.908
+Latency in the Q: 2422.123 ms delay
+Link Utilisation: 100 percent
+At time: 55.210 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 46.174
+Latency in the Q: 2419.220 ms delay
+Link Utilisation: 100 percent
+At time: 56.215 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 46.404
+Latency in the Q: 2416.221 ms delay
+Link Utilisation: 100 percent
+At time: 57.220 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 46.611
+Latency in the Q: 2420.350 ms delay
+Link Utilisation: 100 percent
+At time: 58.223 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 46.795
+Latency in the Q: 2419.007 ms delay
+Link Utilisation: 100 percent
+At time: 59.226 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 46.963
+Latency in the Q: 2422.672 ms delay
+Link Utilisation: 100 percent
+At time: 60.230 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 47.112
+Latency in the Q: 2419.318 ms delay
+Link Utilisation: 100 percent
+At time: 61.235 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 47.245
+Latency in the Q: 2414.608 ms delay
+Link Utilisation: 100 percent
+At time: 62.239 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 47.370
+Latency in the Q: 2424.022 ms delay
+Link Utilisation: 100 percent
+At time: 63.241 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 47.483
+Latency in the Q: 2414.137 ms delay
+Link Utilisation: 100 percent
+At time: 64.244 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 47.584
+Latency in the Q: 2417.109 ms delay
+Link Utilisation: 100 percent
+At time: 65.247 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 47.681
+Latency in the Q: 2421.976 ms delay
+Link Utilisation: 100 percent
+At time: 66.252 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 47.769
+Latency in the Q: 2418.040 ms delay
+Link Utilisation: 100 percent
+At time: 67.254 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 47.848
+Latency in the Q: 2416.284 ms delay
+Link Utilisation: 100 percent
+At time: 68.258 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 47.926
+Latency in the Q: 2423.161 ms delay
+Link Utilisation: 100 percent
+At time: 69.262 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 47.995
+Latency in the Q: 2413.503 ms delay
+Link Utilisation: 100 percent
+At time: 70.266 s
+Throughput: 0.624 MBytes/second
+Loss in percentage: 48.063
+Latency in the Q: 2424.884 ms delay
+Link Utilisation: 100 percent
+At time: 71.269 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 48.124
+Latency in the Q: 2419.014 ms delay
+Link Utilisation: 100 percent
+At time: 72.272 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 48.180
+Latency in the Q: 2415.672 ms delay
+Link Utilisation: 100 percent
+At time: 73.274 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 48.237
+Latency in the Q: 2420.971 ms delay
+Link Utilisation: 100 percent
+At time: 74.277 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 48.286
+Latency in the Q: 2417.350 ms delay
+Link Utilisation: 100 percent
+At time: 75.281 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 48.334
+Latency in the Q: 2418.918 ms delay
+Link Utilisation: 100 percent
+At time: 76.286 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 48.382
+Latency in the Q: 2420.670 ms delay
+Link Utilisation: 100 percent
+At time: 77.290 s
+Throughput: 0.625 MBytes/second
+Loss in percentage: 48.424
+Latency in the Q: 2420.205 ms delay
+Link Utilisation: 100 percent
+At time: 78.293 s
+Throughput: 0.626 MBytes/second
+Loss in percentage: 48.466
+Latency in the Q: 2414.559 ms delay
+Link Utilisation: 100 percent

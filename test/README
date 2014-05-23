@@ -1,0 +1,25 @@
+Specify parameters
+Run ./run.sh to start mininet
+run.sh -> LinearTopo.py 
+
+To monitor interfaces
+Run ./monitor.sh {exp} {iface}
+Specify the name of the experiment
+Specify the interface
+
+monitor.sh->exp_monitor.py->monitor.py
+
+
+
+
+
+
+The elements of the output file of monitor.sh
+TIME       SENT IN BYTES      SENT IN PKTS   BACKLOG IN BYTES  BACKLOG IN PKTS    DROP
+
+
+
+Desired Output in try.sh
+TIME   RATE(THROUGHPUT)    DELAY(QUEUEING DELAY)  LOSS(PKT LOSS PERCENTAGE)
+
+
