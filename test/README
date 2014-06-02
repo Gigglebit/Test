@@ -1,6 +1,21 @@
 Specify parameters
 Run ./run.sh to start mininet
-run.sh -> LinearTopo.py 
+run.sh 
+->start(Pullstats.py)
+->establish topology
+->set interface bw etc(tc_cmd_diff.sh)
+->monitor one interface(monitor.py)
+->changing queue size(mthread.py)
+->Mininet CLI
+
+->exit mininet
+->stop mthread
+->stop monitor
+->kill iperf etc
+->saving plots to png files for two queues
+
+ 
+
 
 To monitor interfaces
 Run ./monitor.sh {exp} {iface}
@@ -19,7 +34,7 @@ TIME       SENT IN BYTES      SENT IN PKTS   BACKLOG IN BYTES  BACKLOG IN PKTS  
 
 
 
-Desired Output in try.sh
-TIME   RATE(THROUGHPUT)    DELAY(QUEUEING DELAY)  LOSS(PKT LOSS PERCENTAGE)
+Desired Output of calQ1Q1_test.txt
+TIME   RATE(THROUGHPUT)    DELAY(QUEUEING DELAY)  LOSS(PKT LOSS PERCENTAGE) Link Utilisation(PERCENTAGE)
 
 
